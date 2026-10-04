@@ -1,0 +1,6 @@
+{
+  "name": "BUN & DOUGH - Online Food Ordering",
+  "description": "Order delicious Burgers, Pizza, Broast, Wings, and Desi Tarka from BUN & DOUGH with direct WhatsApp order slip generation and fast delivery in Jinnah Garden, Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
